@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ttt3xy73x-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ttt3xy73x-nodejs
